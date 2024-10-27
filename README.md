@@ -30,10 +30,14 @@ Rufus'un kendi web sitesine girip kendimize uygun olan sürümü seçtikten sonr
 
 
 Ubuntu ve Rufus indirildikten sonra Rufus'u başlatıyoruz ve artık ubuntu kurma işlemine başlıyoruz.
-Rufus'u açtıktan sonra karşımıza çıkan sayfadan indirdiğimiz ubuntu dosyasını seçiyoruz.
+Rufus'u açtıktan sonra karşımıza çıkan sayfadan indirdiğimiz Ubuntu'yu seçiyoruz.
 
 
 
 
-![Rufus Kullanım](https://github.com/beytulah-kizilkaya/Ubuntu-24.04-Kurulum/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20125105.png)
+![Rufus Kullanım](https://github.com/beytulah-kizilkaya/Ubuntu-24.04-Kurulum/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20125105.png) <br>
+
+Ubuntu'yu seçtikten sonraki ayarlara dokunmanızı tavsiye etmiyorum.Bilgisayarınız doğru ayarlamaları yapıcaktır.
+Bundan sonra başlat a basıyoruz. Karşımıza çıkan uyarıda iki seçeneğimiz var. Biz üsttekini yani "Iso yansısı modunda yazdır." seçeneğini seçip, tamama bastıktan sonra kurulum işlemimiz başlıyor.
+
 
